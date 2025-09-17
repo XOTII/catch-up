@@ -19,7 +19,7 @@ export class Article {
         this.source = source ? new Source(source) : null; // Instance of Source class
     }
 
-    getFormattedDate() {
+    getFormattedPublishedAt() {
         return this.publishedAt.toLocaleDateString('en-US', {
             year: 'numeric',
             month: '2-digit',
