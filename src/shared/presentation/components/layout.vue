@@ -6,6 +6,7 @@ import SourceList from "../../../news/presentation/components/source-list.vue";
 import LanguageSwitcher from "./language-switcher.vue";
 import ArticleList from "../../../news/presentation/components/article-list.vue";
 import FooterContent from "./footer-content.vue";
+import UnavailableContent from "../../../news/presentation/components/unavailable-content.vue";
 
 const drawerVisible = ref(false);
 const toggleDrawer = () => {
